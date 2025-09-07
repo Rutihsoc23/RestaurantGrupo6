@@ -32,7 +32,7 @@
             android:layout_height="100dp"
             android:layout_gravity="center"
             android:contentDescription="Logo"
-            android:src="@drawable/ic_launcher_foreground" />
+            android:src="@mipmap/logo_restaurant" />
 
         <!-- Nombre del Restaurante -->
         <TextView
